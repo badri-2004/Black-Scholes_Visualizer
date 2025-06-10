@@ -79,11 +79,3 @@ The Black-Scholes model is a theoretical framework that relies on several key as
 * **Efficient Markets:** Market movements are random and cannot be predicted.
 * **No Transaction Costs:** There are no commissions or fees for buying or selling the option.
 * **Lognormal Distribution:** The price of the underlying asset follows a lognormal distribution.
-
-## 🤝 Contributing
-
-Feel free to fork this repository, open issues, or submit pull requests if you have suggestions for improvements or new features!
-
-## 📄 License
-
-[Consider adding a license, e.g., MIT, if you plan to share this publicly. Example: MIT License]
